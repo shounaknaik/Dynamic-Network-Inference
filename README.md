@@ -28,7 +28,7 @@ between overall accuracy and cutoffs.
 
 <table>
   <tr>
-      <td align = "center"> <img src="./images/graph.png"> </td>
+      <td align = "center"> <img src="./images/graphs.png"> </td>
   </tr>
   <tr>
       <td align = "center"> Relation between Cutoff, Latency and Accuracy </td>
